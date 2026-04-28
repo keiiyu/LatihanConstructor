@@ -18,6 +18,10 @@ namespace LatihanConstructor
             Mahasiswa mhs2 = new Mahasiswa("12345", "Paijo");
             CetakHasil(mhs2);
 
+            Mahasiswa mhs3= new Mahasiswa("12345", "Paijo");
+            CetakHasil(mhs3);
+
+            Console.ReadKey();
         }
         static void CetakHasil(Mahasiswa mhs)
         {
