@@ -17,7 +17,14 @@ namespace LatihanConstructor
             Nim = nim;
             Nama = nama;
         }
+        public Mahasiswa(string nim, string nama, double ipk)
+        {
+            Nim = nim;
+            Nama = nama;
+            Ipk = ipk;
+        }
         public string Nim { get; set; }
         public string Nama { get; set; }
+        public double Ipk { get; set; }
     }
 }
