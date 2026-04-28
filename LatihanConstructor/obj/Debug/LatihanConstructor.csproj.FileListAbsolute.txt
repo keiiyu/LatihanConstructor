@@ -1,0 +1,8 @@
+D:\25.11.6491\LatihanConstructor\bin\Debug\LatihanConstructor.exe.config
+D:\25.11.6491\LatihanConstructor\bin\Debug\LatihanConstructor.exe
+D:\25.11.6491\LatihanConstructor\bin\Debug\LatihanConstructor.pdb
+D:\25.11.6491\LatihanConstructor\obj\Debug\LatihanConstructor.csproj.AssemblyReference.cache
+D:\25.11.6491\LatihanConstructor\obj\Debug\LatihanConstructor.csproj.SuggestedBindingRedirects.cache
+D:\25.11.6491\LatihanConstructor\obj\Debug\LatihanConstructor.csproj.CoreCompileInputs.cache
+D:\25.11.6491\LatihanConstructor\obj\Debug\LatihanConstructor.exe
+D:\25.11.6491\LatihanConstructor\obj\Debug\LatihanConstructor.pdb
